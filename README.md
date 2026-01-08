@@ -49,13 +49,15 @@ Socket.io based real-time messaging.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=princeyad-ui&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princeyad-ui&theme=tokyonight" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princeyad-ui&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=princeyad-ui&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princeyad-ui&theme=tokyonight" />
 </p>
 
 
